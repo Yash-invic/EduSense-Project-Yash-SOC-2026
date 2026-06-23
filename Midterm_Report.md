@@ -22,4 +22,4 @@ This report covers my progress in the SOC EduSense project so far. Over the time
 * **Learning Rates:** Experimented with different learning rates to see what happens when the model tries to learn too fast (overshooting) versus too slow.
 
 ## Current Status & Next Steps
-Both Week 1 and Week 2 assignments are fully complete and uploaded. So the material and assignment required upto the midterm report as per mentors is completed. I have also started looking into the Week 3 materials, which involves processing audio files to give the AI assistant voice capabilities (it's deadline is after midterm submission).
+Both Week 1 and Week 2 assignments are fully complete and uploaded. So the material and assignment required upto the midterm report as per mentors is completed. I have also started looking into the Week 3 materials, which involves processing audio files to give the AI assistant voice capabilities (it's deadline is after midterm submission), it's not part of Midterm submission.
